@@ -1,0 +1,24 @@
+h1 {
+    font-size: 75px;
+    color: white;
+    border: orange;
+    text-align: center;
+    border-style: solid dotted solid dotted;
+    background-color: pink;
+    border-radius: 70px;
+}
+
+body {
+    background-color: aquamarine;
+    background: url("https://cdn.dribbble.com/users/2148480/screenshots/14263880/bg_1600.png")
+}
+img {
+border-spacing: 80px;
+float: left;
+width:  500px;
+height: 500px;
+object-fit: cover;
+margin: auto;
+margin-top: 200px;
+margin-left: 200px;
+}
